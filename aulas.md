@@ -56,3 +56,6 @@
     1 - [x] Atribuição de métodos
     2 - [x] Criação e manipulação de objetos 
     3 - [x] Acesso a propriedades de objetos 
+    
+## gittignore
+    1 - ignora a parte citada
