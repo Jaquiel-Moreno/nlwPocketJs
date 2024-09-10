@@ -1,7 +1,7 @@
 ## Linguagem de progrmação
 
-Maneiras de da instruções ao computador.
-Como u lego, utiliza peças para criar ALGORITMOS, ou seja, para resolver problemas.
+    Maneiras de da instruções ao computador.
+    Como u lego, utiliza peças para criar ALGORITMOS, ou seja, para resolver problemas.
 
 
  **Algoritmos**: uma sequencia de passos lógicos e finita para resolução de um problema.
