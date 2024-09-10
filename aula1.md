@@ -9,13 +9,13 @@
 
  ## peças de uma linguagem
   
-    1 - Comentários
-    2 - Declaração de Variáveis (const, let)
-    3 - Operadores ( atribuição, concatenação, matemáticos, lógicos )
-    4 - Tipos de dados ( string, number, boolean )
-    5 - Estrutura de dados ( fuctions, object, array )
-    6 - Controle de fluxos ( if/else )
-    7 - Estrutura de repetição ( for, while)
+    1 - [x] Comentários
+    2 - [x] Declaração de Variáveis (const, let)
+    3 - [x] Operadores ( atribuição, concatenação, matemáticos, lógicos )
+    4 - [ ] Tipos de dados ( string, number, boolean )
+    5 - [x] Estrutura de dados ( fuctions, object, array )
+    6 - [ ] Controle de fluxos ( if/else )
+    7 - [ ] Estrutura de repetição ( for, while)
 
 
 ## Fases de resoluçõa de problemas 
@@ -28,31 +28,31 @@
 
 ## Escopo e variáveis
 
-    1 - Variéveis globais ( acesso em qualquer parte do programa )
-    2 - Variáveis locais ( acesso restrito )
-    3 - Variáveis constantes ( valor não se altera)
+    1 - [x] Variéveis globais ( acesso em qualquer parte do programa )
+    2 - [x] Variáveis locais ( acesso restrito )
+    3 - [x] Variáveis constantes ( valor não se altera)
 
 ## Tipos de dados
     
-    1 - String ( Textos )
-    2 - numbers ( números )
-    3 - fuction  ( bloco de código reutilizável que executa uma tarefa específica quando chamada.  permite evitar a repetição de código, mais eficiente e fácil de manter. Funções facilitam a organização e modularidade em programas.)
+    1 - [x] String ( Textos )
+    2 - [x] numbers ( números )
+    3 - [x] fuction  ( bloco de código reutilizável que executa uma tarefa específica quando chamada.  permite evitar a repetição de código, mais eficiente e fácil de manter. Funções facilitam a organização e modularidade em programas.)
 
 
 ## Operadores
 
-    1 - Operadores de atribuição de valor
-    2 - Operador de concatenação
+    1 - [x] Operadores de atribuição de valor
+    2 - [x] Operador de concatenação
 
 ## Estrutura de dados
 
 ## Arrays
 
-    1 - Uma Lista que contem qualquer tipo de dados
+    1 - [x] Uma Lista que contem qualquer tipo de dados
 
 
 ## Objetos
     
-    1 - Atribuição de métodos
-    2 - Criação e manipulação de objetos 
-    3 - Acesso a propriedades de objetos 
+    1 - [x] Atribuição de métodos
+    2 - [x] Criação e manipulação de objetos 
+    3 - [x] Acesso a propriedades de objetos 
