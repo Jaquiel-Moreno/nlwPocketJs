@@ -12,10 +12,10 @@
     1 - [x] Comentários
     2 - [x] Declaração de Variáveis (const, let)
     3 - [x] Operadores ( atribuição, concatenação, matemáticos, lógicos )
-    4 - [ ] Tipos de dados ( string, number, boolean )
+    4 - [x] Tipos de dados ( string, number, boolean )
     5 - [x] Estrutura de dados ( fuctions, object, array )
-    6 - [ ] Controle de fluxos ( if/else )
-    7 - [ ] Estrutura de repetição ( for, while)
+    6 - [x] Controle de fluxos ( if/else )
+    7 - [x] Estrutura de repetição ( for, while)
 
 
 ## Fases de resoluçõa de problemas 
@@ -50,13 +50,37 @@
 ## Arrays
 
     1 - [x] Uma Lista que contem qualquer tipo de dados
-
+    2 - [x] Métodos de arrays: 
 
 ## Objetos
     
     1 - [x] Atribuição de métodos
     2 - [x] Criação e manipulação de objetos 
     3 - [x] Acesso a propriedades de objetos 
-    
+
+
+## Functions
+
+    1 - [x] Criar e passar argumentos
+    2 - [x] Executrar
+    3 - [x] Arrow  functions / named functions 
+
+
+## Estrutura de repetição 
+
+    1 - [x] while
+
+## Condicionais
+
+    1 - [x] switch
+    2 - [x] if/else
+
+## Módulos node.js 
+    1 - [x] Importação de Módulos (riquire, CommonJS)
+    2 - [x] Biblioteca  'inquirer' para criar prompts interativos
+
+## Programação assincronas e  Promisses
+
+    1 - [x] Uso de funções assíncronas (async/await) 
 ## gittignore
     1 - ignora a parte citada
