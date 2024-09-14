@@ -41,8 +41,9 @@
 
 ## Operadores
 
-    1 - [x] Operadores de atribuição de valor
-    2 - [x] Operador de concatenação
+    1 - [x] Operadores de atribuição de valor: = 
+    2 - [x] Operador de concatenação: +
+    3 - [x] Operadores de comparações: ==
 
 ## Estrutura de dados
 
