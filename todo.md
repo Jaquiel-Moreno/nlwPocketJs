@@ -4,4 +4,4 @@
      2 - [x] Metas abertas
 3 - [x] Marcar/desmarcar metas realizadas
 4 - [x] Remover metas
-5 - Sistema de menssagens
+5 - [x] Sistema de menssagens

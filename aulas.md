@@ -20,9 +20,9 @@
 
 ## Fases de resoluçõa de problemas 
 
-    1 - Coleta dos dados 
-    2 - Processar dados ( manipular, alterar ...)
-    3 - Apresentar dados
+    1 - [x] Coleta dos dados 
+    2 - [x] Processar dados ( manipular, alterar ...)
+    3 - [x] Apresentar dados
 
 
 
@@ -51,7 +51,7 @@
 ## Arrays
 
     1 - [x] Uma Lista que contem qualquer tipo de dados
-    2 - [x] Métodos de arrays: [push, find, forEach, filter] HOF (Higher Order functions)
+    2 - [x] Métodos de arrays: [push, find, forEach, filter, map] HOF (Higher Order functions)
 
 ## Objetos
     
