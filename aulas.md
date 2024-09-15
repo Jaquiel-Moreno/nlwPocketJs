@@ -51,7 +51,7 @@
 ## Arrays
 
     1 - [x] Uma Lista que contem qualquer tipo de dados
-    2 - [x] Métodos de arrays: 
+    2 - [x] Métodos de arrays: [push, find, forEach, filter] HOF (Higher Order functions)
 
 ## Objetos
     
