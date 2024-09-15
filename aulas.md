@@ -77,8 +77,16 @@
     2 - [x] if/else
 
 ## Módulos node.js 
+
     1 - [x] Importação de Módulos (riquire, CommonJS)
     2 - [x] Biblioteca  'inquirer' para criar prompts interativos
+    3 - [x] FS (file system)
+
+
+## JSON
+    1 - [x] Javascript Objections Notation (.json) 
+    2 - [x] JSON.parse(): Transforma de JSON para JS
+    3 - [x] JSON.stringify(): Transforma JS para JSON
 
 ## Programação assincronas e  Promisses
 
